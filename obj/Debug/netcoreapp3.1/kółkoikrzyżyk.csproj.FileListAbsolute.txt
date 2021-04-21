@@ -1,0 +1,16 @@
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\bin\Debug\netcoreapp3.1\kółkoikrzyżyk.exe
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\bin\Debug\netcoreapp3.1\kółkoikrzyżyk.deps.json
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\bin\Debug\netcoreapp3.1\kółkoikrzyżyk.runtimeconfig.json
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\bin\Debug\netcoreapp3.1\kółkoikrzyżyk.runtimeconfig.dev.json
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\bin\Debug\netcoreapp3.1\kółkoikrzyżyk.dll
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\bin\Debug\netcoreapp3.1\kółkoikrzyżyk.pdb
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.csprojAssemblyReference.cache
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.Form1.resources
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.csproj.GenerateResource.cache
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.dll
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.pdb
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.genruntimeconfig.cache
+C:\Users\Komputer\source\repos\kółkoikrzyżyk\obj\Debug\netcoreapp3.1\kółkoikrzyżyk.opis.resources
